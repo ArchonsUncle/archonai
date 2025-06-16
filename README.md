@@ -2,3 +2,4 @@ This is a list of system prompts and other for ArchonAI, which is a private AI m
 
 system_prompt includes the Discord system prompt.
 x_system_prompt includes the X/Twitter system prompt.
+image_gen_prompt includes the system prompt for image generation.
